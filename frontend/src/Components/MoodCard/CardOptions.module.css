@@ -1,0 +1,22 @@
+.cardButton {
+  background-color: white;
+  margin-top: 20px;
+  padding: 5px;
+  width: 5vw;
+  min-width: 100px;
+  height: 30px;
+  font-family: "Roboto", sans-serif;
+  font-weight: 700;
+  border-radius: 5px;
+  border: 0;
+  text-align: center;
+  cursor: pointer;
+  margin-right: 1rem;
+  margin-bottom: 1rem;
+}
+
+.cardButton:hover {
+  opacity: .8;
+  transition: all .3s;
+  cursor: pointer;
+}

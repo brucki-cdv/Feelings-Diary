@@ -1,0 +1,26 @@
+.wrapper, .wrapper form {
+    background-color: #0F102B;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.wrapper {
+    display: flex;
+    height: 100%;
+    width: 100%;
+    background-image: url("../../Images/dimitri-iakymuk-mCR10j_B6sM-unsplash.jpg");
+    background-size: cover;
+    background-position: center;
+}
+
+.signUp {
+    color: white;
+    font-size: 1rem;
+    font-family: 'Source Sans Pro', sans-serif;
+    font-weight: bold;
+    text-decoration: underline;
+    cursor: pointer;
+}
+
